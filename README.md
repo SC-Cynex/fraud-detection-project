@@ -95,6 +95,10 @@ npm run dev
 
 - O dataset é fictício (PaySim) mas simula dados de transações financeiras.
 
+## 📝 Documentação
+
+- [Acesse a documentação aqui](https://www.overleaf.com/read/rnhmgpvnjsbg#1f51ae)
+
 ## 👨‍💻 Desenvolvedores
 
 <table align="center">
